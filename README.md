@@ -1,6 +1,6 @@
 ### it's me, Hugo! :wave:
 
-- em desenvolvimento...
+- em desenvolvimento....
 
 <div>
   <a href="https://github.com/hugosilvag6">
