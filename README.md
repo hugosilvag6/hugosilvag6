@@ -1,6 +1,8 @@
 ### it's me, Hugo! :wave:
 
-- em desenvolvimento....
+- Passionate about technology, logic admirer and fascinated about the programming universe.
+- Graduated in Psychology at Pontifícia Universidade Católica de Minas Gerais. 
+- Postgraduate student in Mobile Development at Pontifícia Universidade Católica de Minas Gerais.
 
 <div>
   <a href="https://github.com/hugosilvag6">
