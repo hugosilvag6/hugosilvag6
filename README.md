@@ -1,7 +1,8 @@
 ### it's me, Hugo! :wave:
 
-- Passionate about technology, logic admirer and fascinated about the programming universe.
+Passionate about technology, logic admirer and fascinated about the programming universe.
 - Graduated in Psychology at Pontifícia Universidade Católica de Minas Gerais. 
+- Graduate student in Software Engineering at Uninter.
 - Postgraduate student in Mobile Development at Pontifícia Universidade Católica de Minas Gerais.
 
 <div>
